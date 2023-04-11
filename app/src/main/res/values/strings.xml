@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string-array name="news_title">
+        <item>Microsoft acquires AI language model company</item>
+        <item>Google releases new version of Android operating system</item>
+        <item>Facebook data leak exposes over 500 million users\' personal information</item>
+        <item>Tesla announces new semi-autonomous driving feature</item>
+        <item>Amazon introduces new voice assistant for businesses</item>
+        <item>Apple announces new iPad Pro with M1 chip</item>
+    </string-array>
+    <string-array name="news_description">
+        <item>Microsoft has acquired AI language model company, Nuance Communications, for $19.7 billion.</item>
+        <item>Google has released the latest version of its Android operating system, Android 12.</item>
+        <item>A data leak at Facebook has exposed the personal information of over 500 million users.</item>
+        <item>Tesla has announced a new semi-autonomous driving feature called "Full Self-Driving" (FSD).</item>
+        <item>Amazon has introduced a new voice assistant, Alexa for Business, that is designed for use in workplaces.</item>
+        <item>Apple has announced a new version of its iPad Pro that includes its M1 chip.</item>
+
+    </string-array>
+    <string-array name="news_detail">
+        <item> Nuance Communications is best known for its Dragon software, which is used for speech recognition and transcription. Microsoft plans to integrate Nuance\'s technology into its own products, including its cloud-based healthcare software.</item>
+        <item>Android 12 includes a new design, improved privacy features, and better performance. The update is currently available on select Google Pixel phones and will be rolling out to other Android devices in the coming months.</item>
+        <item>The data leak included users\' phone numbers, email addresses, and other personal information. Facebook has said that the leak was due to a vulnerability that has since been fixed and that the data was scraped from public profiles before 2019.</item>
+        <item>FSD will allow Tesla cars to navigate on their own in certain situations, such as on highways and in parking lots. The feature is still in beta testing and requires driver supervision.</item>
+        <item>Alexa for Business can be used to schedule meetings, control smart devices, and perform other workplace tasks. The assistant can also be integrated with other business applications, such as Salesforce and Microsoft Teams.</item>
+        <item>The M1 chip, which is also used in Apple\'s Mac computers, provides improved performance and battery life. The new iPad Pro also includes a Liquid Retina XDR display and 5G connectivity.</item>
+
+    </string-array>
+</resources>
